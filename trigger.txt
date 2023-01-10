@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+       <category label="Log-ins">
+		<setting label="247HD Account" type="lsep" />
+		<setting id="247username" type="text" label="247HD Username" default="" visible="true"/>
+		<setting id="247password" type="text"label="247HD Password" default="" visible="true" option="hidden" />
+   </category>
+</settings>
