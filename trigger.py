@@ -1,3 +1,19 @@
+import urllib.request
+import urllib.parse
+import urllib.error
+import re
+import http.cookiejar
+import string
+import os
+import random
+import time
+import datetime
+import sys
+import base64
+import xbmc
+import xbmcgui
+import xbmcaddon
+import xbmcplugin
 
 addon_id = 'plugin.video.247hd'
 artpath = xbmc.translatePath(os.path.join(
